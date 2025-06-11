@@ -1,9 +1,7 @@
 # 📘 Student List App
 
 
-
 This is a simple console-based application that allows you to add students and view the complete list.
-
 
 
 ---
